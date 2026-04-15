@@ -1,4 +1,4 @@
-# 🌲 Harvest Management 3.0 software system
+# 🌲 Harvest Management 3.0 software system_COPY
 
 This repository contains COPY of the source code and documentation for Harvest Management 3.0 software system.
 ---
